@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0506-relative-ranks) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
 ## Hash Table
@@ -14,6 +15,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0506-relative-ranks) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
 ## Counting
@@ -28,4 +30,8 @@
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
