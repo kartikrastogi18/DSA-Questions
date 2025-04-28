@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [2331-intersection-of-multiple-arrays](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2331-intersection-of-multiple-arrays) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
