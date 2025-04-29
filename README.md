@@ -24,6 +24,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
 ## Counting
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0007-reverse-integer) |
+| [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | ------- |
 | [0502-ipo](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0561-array-partition) |
+| [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
 ## Matrix
 |  |
 | ------- |
