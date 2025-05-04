@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0118-pascals-triangle) |
@@ -71,6 +72,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
