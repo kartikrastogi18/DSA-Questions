@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0078-subsets) |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0682-baseball-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
