@@ -19,6 +19,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,11 +66,13 @@
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0682-baseball-game) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
 ## Counting Sort
 |  |
 | ------- |
@@ -99,4 +102,12 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
