@@ -110,4 +110,12 @@
 |  |
 | ------- |
 | [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
