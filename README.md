@@ -49,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
@@ -97,6 +98,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
