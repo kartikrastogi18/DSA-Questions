@@ -8,6 +8,7 @@
 | [0046-permutations](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0682-baseball-game) |
@@ -127,6 +129,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
