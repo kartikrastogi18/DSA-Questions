@@ -15,6 +15,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0682-baseball-game) |
@@ -105,6 +106,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
@@ -131,6 +133,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
