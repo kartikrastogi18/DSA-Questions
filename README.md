@@ -24,6 +24,7 @@
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
+| [2756-buy-two-chocolates](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
+| [2756-buy-two-chocolates](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
 ## Counting
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0502-ipo](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0561-array-partition) |
 | [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
+| [2756-buy-two-chocolates](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
 ## Matrix
 |  |
 | ------- |
