@@ -29,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0047-permutations-ii) |
+| [0242-valid-anagram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0502-ipo](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0561-array-partition) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
