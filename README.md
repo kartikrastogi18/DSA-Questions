@@ -28,6 +28,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
 | [2756-buy-two-chocolates](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
+| [3226-minimum-number-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
+| [3226-minimum-number-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [0502-ipo](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0506-relative-ranks) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3226-minimum-number-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | [0682-baseball-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0682-baseball-game) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
+| [3226-minimum-number-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3226-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
