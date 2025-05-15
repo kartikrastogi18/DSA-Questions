@@ -29,6 +29,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
 | [2756-buy-two-chocolates](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3226-minimum-number-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@
 | [0020-valid-parentheses](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0561-array-partition](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0561-array-partition) |
 | [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +126,7 @@
 | [0042-trapping-rain-water](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0119-pascals-triangle-ii) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
 | ------- |
