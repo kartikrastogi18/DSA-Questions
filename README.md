@@ -29,6 +29,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
 | [2756-buy-two-chocolates](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3226-minimum-number-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3226-minimum-number-game) |
 ## Hash Table
@@ -57,6 +58,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
@@ -142,6 +144,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -173,4 +176,8 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0594-longest-harmonious-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
