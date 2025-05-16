@@ -32,6 +32,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3226-minimum-number-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [2756-buy-two-chocolates](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2756-buy-two-chocolates) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0007-reverse-integer](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
+| [3321-type-of-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
