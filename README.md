@@ -14,6 +14,7 @@
 | [0090-subsets-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0119-pascals-triangle-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0502-ipo) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
 | [3321-type-of-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3321-type-of-triangle) |
@@ -140,6 +142,7 @@
 | [0020-valid-parentheses](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0503-next-greater-element-ii) |
