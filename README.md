@@ -10,6 +10,7 @@
 | [0047-permutations-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0118-pascals-triangle) |
@@ -153,6 +154,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Depth-First Search
 |  |
