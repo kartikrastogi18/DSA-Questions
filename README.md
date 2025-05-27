@@ -79,6 +79,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3321-type-of-triangle) |
 ## String
 |  |
