@@ -1,29 +1,25 @@
 class Solution {
 public:
-
-    void combiSum(vector<int>& candidates, int target, int start,vector<vector<int>>&result,vector<int>temp,int sum){
-
-        if(sum==target) {
-            result.push_back(temp);
+    void fun(int ind,int target,vector<int> &arr,vector<vector<int>>& ans,vector<int>& ds){
+        if(ind==arr.size()){
+            if(target==0){
+                ans.push_back(ds);
+            }
             return;
         }
-        if(sum>target) return;
-
-        for(int i=start;i<candidates.size();i++){
-            temp.push_back(candidates[i]);
-            sum+=candidates[i];
-            combiSum(candidates,target,i,result,temp,sum);
-            sum-=candidates[i];
-            temp.pop_back();
+        if(arr[ind] <= target){
+            ds.push_back(arr[ind]);
+            fun(ind,target-arr[ind],arr,ans,ds);
+            ds.pop_back();
         }
+
+        fun(ind+1,target,arr,ans,ds);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        
-        vector<vector<int>>result;
-        vector<int>temp;            
-        int sum=0;
-        combiSum(candidates,target,0,result,temp,sum);
-        return result;
+        vector<vector<int>> ans;
+        vector<int> ds;
+        fun(0,target,candidates,ans,ds);
+        return ans;      
     }
 };
