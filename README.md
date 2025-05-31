@@ -88,6 +88,7 @@
 | [0020-valid-parentheses](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0242-valid-anagram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2235-capitalize-the-title](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2235-capitalize-the-title) |
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
