@@ -92,6 +92,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0392-is-subsequence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2235-capitalize-the-title](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2235-capitalize-the-title) |
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
@@ -149,6 +150,7 @@
 | [0042-trapping-rain-water](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0392-is-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartikrastogi18/DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
@@ -172,6 +174,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0392-is-subsequence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Depth-First Search
 |  |
