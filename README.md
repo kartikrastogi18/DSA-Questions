@@ -93,6 +93,7 @@
 | [0020-valid-parentheses](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0392-is-subsequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/kartikrastogi18/DSA-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2235-capitalize-the-title](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2235-capitalize-the-title) |
 | [2502-sort-the-people](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2502-sort-the-people) |
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/kartikrastogi18/DSA-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
