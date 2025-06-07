@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -108,6 +109,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0055-jump-game) |
 | [0502-ipo](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0561-array-partition) |
 | [2650-split-with-minimum-sum](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2650-split-with-minimum-sum) |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0392-is-subsequence) |
