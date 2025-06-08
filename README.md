@@ -81,6 +81,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -221,6 +222,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0069-sqrtx) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Union Find
 |  |
