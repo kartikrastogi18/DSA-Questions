@@ -167,6 +167,7 @@
 | [0020-valid-parentheses](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0234-palindrome-linked-list) |
@@ -188,6 +189,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -236,4 +238,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
