@@ -151,6 +151,7 @@
 | ------- |
 | [0078-subsets](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Union Find
 |  |
@@ -253,6 +255,7 @@
 | [0100-same-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -262,6 +265,7 @@
 | [0100-same-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
