@@ -195,6 +195,7 @@
 | [0100-same-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -256,6 +258,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -266,6 +269,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
