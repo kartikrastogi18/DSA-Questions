@@ -198,6 +198,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
@@ -264,6 +265,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
@@ -277,6 +279,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
