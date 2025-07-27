@@ -207,6 +207,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -215,6 +216,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikrastogi18/DSA-Questions/tree/master/2662-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -276,6 +278,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -292,6 +295,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kartikrastogi18/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
